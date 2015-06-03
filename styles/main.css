@@ -1,0 +1,17 @@
+/*header*/
+#mainheader{
+  background: url("http://i.imgur.com/ofL3GvE.png?1") no-repeat;
+  margin-left:860px;
+  height:300px;
+  width:1550px;
+}
+
+img{
+  margin-top:-230px;
+  margin-left:290px;
+}
+/*body*/
+body {
+  width:100%;
+  background-color: #F2F1ED;
+}
